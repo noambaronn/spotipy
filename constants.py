@@ -1,0 +1,16 @@
+SONGS_DIRECTORY_PATH = "../resources/songs/"
+SONGS_DIRECTORY_FOR_MENU = "resources/songs/"
+SONG = "song"
+TRACK = "track"
+ALBUM = "album"
+ID_POS_ARTIST = 0
+NAME_POS_ARTIST = 1
+ID = "id"
+NAME = "name"
+ARTIST = "artist"
+ARTISTS = "artists"
+POPULARITY = "popularity"
+SONGS_PREMIUM = 10
+SONGS_BASIC = 5
+IS_PREMIUM = False
+IS_ARTIST_USER = False
